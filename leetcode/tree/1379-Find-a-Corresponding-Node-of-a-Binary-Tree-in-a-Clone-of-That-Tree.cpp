@@ -10,7 +10,7 @@
 
 class Solution {
 public:
-TreeNode* ans=new TreeNode(3);
+TreeNode* ans=NULL;
     void solve(TreeNode* original, TreeNode* cloned, TreeNode* target)
     {
         if(original->val==target->val)
