@@ -8,17 +8,17 @@ Codeforces, LeetCode, CSES, CodeChef &amp; GeeksforGeeks solutions, organized cl
 
 Synced automatically by SolveBase.
 
-**Total solved: 98**
+**Total solved: 99**
 
 ## Codeforces
 
 Solutions by [yeswanthreddy2004](https://codeforces.com/profile/yeswanthreddy2004), organized by difficulty rating.
 
-**Solved: 59**
+**Solved: 60**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 59 |
+| [800](./codeforces/800) | 60 |
 
 
 ## LeetCode
