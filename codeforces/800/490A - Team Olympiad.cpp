@@ -58,11 +58,11 @@ int main()
     while(first<second && second<third && third<n && pr[first].first==1 && pr[second].first==2 && pr[third].first==3)
     {
        
+        
             cout<<pr[first].second+1<<" "<<pr[second].second+1<<" "<<pr[third].second+1<<endl;
             first++;
             second++;
             third++;
-        
     }
    
 }
