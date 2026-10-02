@@ -12,6 +12,7 @@ int main()
         if(a>b)ans++;
         else if(a<b)ans--;
         
+        
     }
     if(ans>0)cout<<"Mishka";
     else if(ans<0)cout<<"Chris";
