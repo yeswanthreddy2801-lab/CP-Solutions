@@ -16,6 +16,7 @@ int main()
         int x=v[i];
         if(x%3==0)
         {
+            
             cout<<"Second"<<endl;
         }
         else cout<<"First"<<endl;
