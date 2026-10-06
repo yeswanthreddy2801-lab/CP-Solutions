@@ -29,6 +29,7 @@ int main()
         cout<<ans[i];
         if(i<n-1)
         {
+            
             cout<<endl;
         }
     }
