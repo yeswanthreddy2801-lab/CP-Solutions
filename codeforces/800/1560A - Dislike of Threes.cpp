@@ -15,6 +15,7 @@ int main()
             mp[c]=i;
             c++;
         }
+        
         i++;
 
     }
