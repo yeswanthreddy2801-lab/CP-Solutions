@@ -26,6 +26,7 @@ int main()
     
     if(sum1==sum2)
     {
+        
         cout<<"Yes";
     }
     else cout<<"No";
