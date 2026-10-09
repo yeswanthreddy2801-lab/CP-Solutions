@@ -31,6 +31,7 @@ int main()
         if (valid)
         {
             cout << m;
+            
             break;
         }
         m++;
