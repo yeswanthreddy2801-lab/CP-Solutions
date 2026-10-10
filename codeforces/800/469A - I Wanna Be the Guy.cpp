@@ -12,6 +12,7 @@ int main()
     {
         cin>>p[i];
         s.insert(p[i]);
+        
     }
     int y;
     cin>>y;
