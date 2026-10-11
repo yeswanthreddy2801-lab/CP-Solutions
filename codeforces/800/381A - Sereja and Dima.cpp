@@ -13,6 +13,7 @@ int main()
     int flag=0,sum1=0,sum2=0;
    while(l<=r)
    {
+    
     int x=max(v[l],v[r]);
     if(x==v[l])l++;
     else r--;
