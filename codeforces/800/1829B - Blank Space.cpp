@@ -26,6 +26,7 @@ int main()
         ans.push_back(maxi);
         
     }
+    
     for(int i=0;i<n;i++)
     {
         
