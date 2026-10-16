@@ -6,6 +6,7 @@ int main()
     cin>>n;
     string s;
     cin>>s;
+    
     transform(s.begin(),s.end(),s.begin(),::tolower);
     set<char>s1;
     for(char c:s)
