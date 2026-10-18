@@ -11,6 +11,7 @@ int main()
         int x;
         cin>>x;
         v.push_back(x/2);
+        
     }
     for(int i=0;i<n;i++)
     {
