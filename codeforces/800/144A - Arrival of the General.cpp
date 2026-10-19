@@ -34,6 +34,7 @@ int main()
     }
     else
     {
+        
         cout<<ansmin+ansmax-1;
     }
 
