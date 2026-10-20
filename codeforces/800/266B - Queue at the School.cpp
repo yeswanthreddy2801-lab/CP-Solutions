@@ -18,6 +18,7 @@ int main()
             s[i]=s[i+1];
             s[i+1]=t;
             // i++;
+            
             if(s[i]!='B')
             i++;
         
