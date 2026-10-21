@@ -7,6 +7,7 @@ int main()
     set<int>s;
     s.insert(x);
     s.insert(y);
+    
     s.insert(z);
     s.insert(a);
     cout<<4-s.size();
