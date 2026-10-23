@@ -14,6 +14,7 @@ int main()
         s2[0]=c;
         ans.push_back({s1,s2});
 
+        
     }
     for(int i=0;i<n;i++)
     {
