@@ -12,6 +12,7 @@ int main()
         int an=a^b^c;
         ans.push_back(an);
     }
+    
     for(int i=0;i<n;i++)
     {
         cout<<ans[i];
