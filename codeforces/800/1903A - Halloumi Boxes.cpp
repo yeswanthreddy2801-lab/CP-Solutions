@@ -47,7 +47,6 @@ int main()
             if(flag==0)
             cout<<"YES";
 
-
             }
         if(i<n-1)cout<<endl;
     }
