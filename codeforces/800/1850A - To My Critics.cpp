@@ -14,6 +14,7 @@ int main()
             ans.push_back("yes");
         }
         else ans.push_back("No");
+        
     }
     for(int i=0;i<n;i++)
     {
