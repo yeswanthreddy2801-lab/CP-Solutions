@@ -11,6 +11,7 @@ int main()
         cin>>a>>b>>c>>d;
         v.push_back({a,b,c,d});
 
+        
     }
     for(int i=0;i<n;i++)
     {
