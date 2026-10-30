@@ -19,10 +19,12 @@ int main()
             maxi=v[i];
             c++;
         }
-        if(v[i]<mini)
+        if(v[i] < mini)
         {
             mini=v[i];
             c++;
+
+            
         }
 
     }
