@@ -20,6 +20,7 @@ int main()
     for(int i=n;i<=d;i+=n)
     {
         v[i]=1;
+        
     }
 
     int c=0;
