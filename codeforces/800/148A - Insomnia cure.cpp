@@ -21,6 +21,7 @@ int main()
     {
         v[i]=1;
         
+        
     }
 
     int c=0;
