@@ -24,7 +24,6 @@ int main()
         {
             mini=v[i];
             c++;
- 
         }
 
     }
