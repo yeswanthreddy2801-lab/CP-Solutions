@@ -7,6 +7,7 @@ int main()
     vector<pair<int,int>>v;
     for(int i=0;i<n;i++)
     {
+        
         int x,y;
         cin>>x>>y;
         v.push_back({x,y});
