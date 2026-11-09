@@ -12,6 +12,7 @@ int main()
         int x;
         cin>>x;
         mp[x]++;
+        
     }
     int ans=0;
     for(int i=0;i<n;i++)
