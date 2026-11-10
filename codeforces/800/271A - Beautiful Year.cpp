@@ -32,6 +32,7 @@ int main()
         {
             cout << m;
             
+            
             break;
         }
         m++;
